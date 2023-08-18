@@ -8,10 +8,10 @@
 X
 
 ### Notebooks
-* [X](X.ipynb)
+* [housing_data_regression_analysis](housing_data_regression_analysis.ipynb)
 
 ### Data and sources
-* [X](https://X)
+* [Scikit-learn housing dataset]([https://X](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv)https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv)
 
 ### Technologies and packages
-* X
+* Sklearn
