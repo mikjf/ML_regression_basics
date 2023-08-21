@@ -5,7 +5,7 @@
 #### -- Project Status: [Active]
 
 ## Objective
-X
+Colab
 
 ### Notebooks
 * [housing_data_regression_analysis](housing_data_regression_analysis.ipynb)
