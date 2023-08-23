@@ -5,7 +5,7 @@
 #### -- Project Status: [Active]
 
 ## Objective
-Colab
+Set the ML foundations by understanding how to prepare data, which models to test for a given task and the different metrics needed to assess for a given problem.
 
 ### Notebooks
 * [housing_data_regression_analysis](housing_data_regression_analysis.ipynb)
