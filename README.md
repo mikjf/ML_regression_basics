@@ -33,6 +33,7 @@ Set the ML foundations by understanding how to prepare data, which models to tes
 
 ### Data and sources
 * [Scikit-learn housing dataset](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv)
+* [Constructor Learning](https://academy.constructor.org/)
 
 ### Technologies and packages
 * Numpy
