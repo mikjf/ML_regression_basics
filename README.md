@@ -9,9 +9,27 @@ Set the ML foundations by understanding how to prepare data, which models to tes
 
 ### Notebooks
 * [housing_data_regression_analysis](housing_data_regression_analysis.ipynb)
-  * (simple linear regression, train/test split, cross-validation, scaling, pipeline, feature correlations)
-* [wine_quality_multiple_regression_analysis](wine_quality_multiple_regression_analysis.ipynb) (multiple linear regression, holdout sampling method, pipeline to allow scaling within cross-validation loop, outliers, model performance)
-* [feature_transformation_analysis](feature_transformation_analysis.ipynb) (impact of feature transormation on model performance, StandardScaler, MinMaxScaler, RobustScaler, Normalizer, Linearization, Log transformation, Boxcox transformation)
+  * Simple linear regression
+  * Train/test split
+  * Cross-validation
+  * Scaling
+  * Pipeline
+  * Feature correlations
+* [wine_quality_multiple_regression_analysis](wine_quality_multiple_regression_analysis.ipynb)
+  * Multiple linear regression
+  * Holdout sampling method
+  * Pipeline to allow scaling within cross-validation loop
+  * Outliers
+  * Model performance
+* [feature_transformation_analysis](feature_transformation_analysis.ipynb)
+  * Impact of feature transormation on model performance
+  * StandardScaler
+  * MinMaxScaler
+  * RobustScaler
+  * Normalizer
+  * Linearization
+  * Log transformation
+  * Boxcox transformation
 
 ### Data and sources
 * [Scikit-learn housing dataset]([https://X](https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv)https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/datasets/data/boston_house_prices.csv)
